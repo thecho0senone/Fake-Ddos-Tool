@@ -1,4 +1,6 @@
-# main.py - thecho0sen one on github
+# main.py - made by thecho0sen one on github.
+# I am not responsible for anything if the users are incapable of plugging out and then back in the WiFi cable.
+#Educational purposes only.
 import os
 import time
 import sys
